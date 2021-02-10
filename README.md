@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://recipe-ipsum.com/" target="blank"><img src="https://recipe-ipsum.com/apple-touch-icon.76a3fa73.png" width="180" alt="Recipe Ipsum Logo" /></a>
+  <a href="https://recipe-ipsum.com/" target="blank"><img src="https://github.com/recipe-ipsum/recipe-ipsum/blob/develop/src/apple-touch-icon.png?raw=true" width="180" alt="Recipe Ipsum Logo" /></a>
 </p>
 <p align="center">
     The api behind the ridiculous <a href="https://recipe-ipsum.com">Recipe Ipsum</a>
